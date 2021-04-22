@@ -5,6 +5,9 @@
         <Nullable>enable</Nullable>
         <Authors>sscss</Authors>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageProjectUrl>https://github.com/Ususucsus/VKMiniAppsAuthentication</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Ususucsus/VKMiniAppsAuthentication/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Ususucsus/VKMiniAppsAuthentication</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>

@@ -3,6 +3,10 @@
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageProjectUrl>https://github.com/Ususucsus/VKMiniAppsAuthentication</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Ususucsus/VKMiniAppsAuthentication/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Ususucsus/VKMiniAppsAuthentication</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
