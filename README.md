@@ -1,5 +1,9 @@
 # VKMiniAppsAuthentication
 
+## Installation 
+
+    dotnet add package VKMiniAppsAuthentication.AspNetCore --version 1.0.0
+
 ## Usage
 
 Specify app secret key in appsettings.*.json
